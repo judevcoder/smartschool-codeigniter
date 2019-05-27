@@ -1,0 +1,11 @@
+1. On disable edit module permission save button should hide from modal
+2. permission on edit and delete link for to do list
+3. if edit permission is allowed but not add so user can edit existing but not able to add new
+4. Add permission not working on apply leave
+5. all permission should be check on hr leave request
+6. permission should be added on payroll
+7. Roles permissions only visible to superadmin and admin
+8. for new roles permission add permission is active but student admission not visible in links
+9. import student permission is active but it redirect to unautorized page
+10. Fees master assign link visible only if fee group assign permission is active 
+11. Fees discount assign link visible only if fee discount assign permission is active 
